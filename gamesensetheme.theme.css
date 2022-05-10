@@ -3758,7 +3758,7 @@ input,textarea{
 }
 #app-mount .privateChannels-oVe7HL .searchBar-3TnChZ .searchBarComponent-3N7dCG::before {
      content: 'Search Direct Messages';
-     position: relative;
+     position: absolute;
      top: 50%;
      transform: translateY(-25%);
      width: 180px;
